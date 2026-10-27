@@ -17,7 +17,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  Programmer working with JavaScript, Python, C++, Rust, and web technologies to build games, interactive software, and useful online experiences.<br/>
+  Programmer working with JavaScript, Python, C++, Rust, and web technologies to build games, interactive software, and useful online experiences. I sometimes Vibe-Code to save time 😂<br/>
   I develop <a href="https://jenitzio.co.uk"><strong>jenitzio.co.uk</strong></a> and a growing suite of free creative tools for photography, image editing, video, and music.
 </p>
 
@@ -26,15 +26,15 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>🕹️ Games</h3>
+      <h3>Games</h3>
       Browser-based games, gameplay systems, and interactive experiments.
     </td>
     <td align="center" width="33%">
-      <h3>🌐 Web & Systems</h3>
+      <h3>Web & Systems</h3>
       Websites, web apps, APIs, servers, and connected services.
     </td>
     <td align="center" width="33%">
-      <h3>🎨 Creative Tools</h3>
+      <h3>Creative Tools</h3>
       Free tools for photo, image, video, and music workflows.
     </td>
   </tr>
@@ -144,5 +144,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jenitzio&style=for-the-badge&color=8B7CFF&label=PROFILE+VIEWS" alt="Profile views" />
   <br/><br/>
-  <sub>✨ Thanks for stopping by — explore, connect, and build something great.</sub>
+  <sub>Thanks for stopping by — explore, connect, and build something great.</sub>
 </p>
