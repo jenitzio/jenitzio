@@ -4,145 +4,189 @@
 
 <p align="center">
   <a href="https://jenitzio.co.uk"><img src="https://img.shields.io/badge/EXPLORE-JENITZIO.CO.UK-20CFC3?style=for-the-badge&logo=googlechrome&logoColor=081323" alt="Explore jenitzio.co.uk" /></a>
-  <a href="https://github.com/jenitzio"><img src="https://img.shields.io/badge/GITHUB-@JENITZIO-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://github.com/centralorbit-org"><img src="https://img.shields.io/badge/COLLABORATING%20WITH-DIVINEVIBE-FF70C7?style=for-the-badge&logo=github&logoColor=white" alt="DivineVibe collaboration" /></a>
+  <a href="https://github.com/jenitzio?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-ALL%20REPOSITORIES-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" /></a>
+  <a href="https://github.com/centralorbit-org"><img src="https://img.shields.io/badge/COLLABORATION-DIVINEVIBE-FF70C7?style=for-the-badge&logo=github&logoColor=white" alt="Visit DivineVibe on GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=42E8E0&center=true&vCenter=true&width=620&lines=Web+Development+%E2%80%A2+Games+%E2%80%A2+Creative+Tools;Building+ideas+into+interactive+experiences;JavaScript+%7C+Python+%7C+C%2B%2B+%7C+Rust" alt="Web development, games, creative tools, and programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=42E8E0&center=true&vCenter=true&width=720&lines=Web+Development+%C2%B7+Games+%C2%B7+Creative+Software;Building+ideas+into+interactive+experiences;JavaScript+%7C+Python+%7C+C%2B%2B+%7C+Rust" alt="Web development, games, creative software and programming" />
 </p>
 
 ---
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">ABOUT</h2>
 
 <p align="center">
-  Programmer working with JavaScript, Python, C++, Rust, and web technologies to build games, interactive software, and useful online experiences. I sometimes Vibe-Code to save time 😂<br/>
-  I develop <a href="https://jenitzio.co.uk"><strong>jenitzio.co.uk</strong></a> and a growing suite of free creative tools for photography, image editing, video, and music.
+  I build within the <a href="https://jenitzio.co.uk"><strong>Jenitzio ecosystem</strong></a>: a growing collection of web applications, browser games, creative tools and experiments.
+  <br />
+  My work spans interface design, interactive systems and desktop software, with a focus on making ambitious ideas useful, accessible and enjoyable to explore.
 </p>
 
-<h2 align="center">WHAT I BUILD</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-WEB%20%26%20SYSTEMS-20CFC3?style=flat-square&labelColor=10172A" alt="Web and systems" />
+  <img src="https://img.shields.io/badge/FOCUS-GAMES-8B7CFF?style=flat-square&labelColor=10172A" alt="Games" />
+  <img src="https://img.shields.io/badge/FOCUS-CREATIVE%20TOOLS-FF70C7?style=flat-square&labelColor=10172A" alt="Creative tools" />
+</p>
 
-<table align="center">
+---
+
+<h2 align="center">FEATURED PROJECTS</h2>
+
+<p align="center">
+  A selection of projects across creative software, games and interactive applications.
+</p>
+
+<table>
   <tr>
-    <td align="center" width="33%">
-      <h3>Games</h3>
-      Browser-based games, gameplay systems, and interactive experiments.
+    <td width="33%" valign="top">
+      <a href="https://github.com/jenitzio/JenVideo">
+        <img src="assets/projects/jenvideo.svg" alt="Illustrative interface artwork for JenVideo, a video-editing project" width="100%" />
+      </a>
+      <h3 align="center">JenVideo</h3>
+      <p align="center">A browser-based video editor built around a timeline workspace, clip tools, visual adjustments and audio workflows.</p>
+      <p align="center"><img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B7CFF?style=flat-square" alt="In development" /></p>
+      <p align="center"><a href="https://github.com/jenitzio/JenVideo"><strong>View repository</strong></a></p>
     </td>
-    <td align="center" width="33%">
-      <h3>Web & Systems</h3>
-      Websites, web apps, APIs, servers, and connected services.
+    <td width="33%" valign="top">
+      <a href="https://github.com/jenitzio/JenMusic">
+        <img src="assets/projects/jenmusic.svg" alt="Illustrative interface artwork for JenMusic, an electronic music workstation" width="100%" />
+      </a>
+      <h3 align="center">JenMusic</h3>
+      <p align="center">A browser-based electronic music workstation with a drum machine, acid sequencer, audio timeline and desktop wrapper.</p>
+      <p align="center"><img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B7CFF?style=flat-square" alt="In development" /></p>
+      <p align="center"><a href="https://github.com/jenitzio/JenMusic"><strong>View repository</strong></a></p>
     </td>
-    <td align="center" width="33%">
-      <h3>Creative Tools</h3>
-      Free tools for photo, image, video, and music workflows.
+    <td width="33%" valign="top">
+      <a href="https://github.com/jenitzio/JenRAW">
+        <img src="assets/projects/jenraw.svg" alt="Illustrative interface artwork for JenRAW, a photography editing application" width="100%" />
+      </a>
+      <h3 align="center">JenRAW</h3>
+      <p align="center">A desktop photography workflow for Canon files and common image formats, with image adjustments and a configurable workspace.</p>
+      <p align="center"><img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-8B7CFF?style=flat-square" alt="In development" /></p>
+      <p align="center"><a href="https://github.com/jenitzio/JenRAW"><strong>View repository</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jenitzio/JenPhoto">
+        <img src="assets/projects/jenphoto.svg" alt="Illustrative interface artwork for JenPhoto, a desktop photo application" width="100%" />
+      </a>
+      <h3 align="center">JenPhoto</h3>
+      <p align="center">A desktop app packaged with Electron, bringing a web-based photo workspace into a downloadable application.</p>
+      <p align="center"><img src="https://img.shields.io/badge/TYPE-DESKTOP%20APP-20CFC3?style=flat-square" alt="Desktop application" /></p>
+      <p align="center"><a href="https://github.com/jenitzio/JenPhoto"><strong>View repository</strong></a> · <a href="https://github.com/jenitzio/JenPhoto/releases">Releases</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jenitzio/The-Northern-Front">
+        <img src="assets/projects/northern-front.svg" alt="Illustrative battlefield artwork for The Northern Front, branded IRONFRONT" width="100%" />
+      </a>
+      <h3 align="center">The Northern Front</h3>
+      <p align="center">IRONFRONT is a browser-based 3D combined-arms game featuring vehicles, infantry, squad commands and capture-sector objectives.</p>
+      <p align="center"><img src="https://img.shields.io/badge/TYPE-3D%20BROWSER%20GAME-FF70C7?style=flat-square" alt="3D browser game" /></p>
+      <p align="center"><a href="https://github.com/jenitzio/The-Northern-Front"><strong>View repository</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/jenitzio/KRNK.JS">
+        <img src="assets/projects/krnkjs.svg" alt="Illustrative game interface artwork for KRNK.JS, a browser FPS project" width="100%" />
+      </a>
+      <h3 align="center">KRNK.JS</h3>
+      <p align="center">A browser FPS project built with web technologies, with a focus on responsive gameplay systems and multiplayer-oriented features.</p>
+      <p align="center"><img src="https://img.shields.io/badge/TYPE-BROWSER%20GAME-20CFC3?style=flat-square" alt="Browser game" /></p>
+      <p align="center"><a href="https://github.com/jenitzio/KRNK.JS"><strong>View repository</strong></a></p>
     </td>
   </tr>
 </table>
 
-<h2 align="center">COLLABORATIONS</h2>
-
 <p align="center">
-  Working with <a href="https://github.com/centralorbit-org"><strong>DivineVibe (@centralorbit-org)</strong></a> on development projects and ideas.
-  <br/>
-  <a href="https://github.com/centralorbit-org"><img src="https://img.shields.io/badge/VISIT-DIVINEVIBE'S%20GITHUB-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Visit DivineVibe on GitHub" /></a>
+  <sub>The project visuals are original illustrations of each project's direction, not screenshots of a running build. Check each repository for current implementation details and status.</sub>
 </p>
 
-<h2 align="center">CONNECT</h2>
-
 <p align="center">
-  <a href="https://facebook.com/@jenitzio"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/@jenitzio444"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:jenitzio13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://jenitzio.co.uk"><img src="https://img.shields.io/badge/Website-jenitzio.co.uk-20CFC3?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/jenitzio?tab=repositories"><img src="https://img.shields.io/badge/SEE%20MORE-ALL%20PROJECTS-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="See all projects" /></a>
 </p>
 
 ---
 
-<h2 align="center">TECH STACK</h2>
+<h2 align="center">THE JENITZIO ECOSYSTEM</h2>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://jenitzio.co.uk">Web &amp; Systems</a></h3>
+      <p align="center">Websites, portals, APIs, connected services and experiments that bring projects together.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Games &amp; Interaction</h3>
+      <p align="center">Browser games, gameplay systems, interactive environments and experiments in real-time experiences.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Creative Software</h3>
+      <p align="center">Tools for photography, image editing, video and music workflows, built with a strong focus on interface and usability.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://jenitzio.co.uk"><img src="https://img.shields.io/badge/VISIT-THE%20JENITZIO%20WEBSITE-20CFC3?style=for-the-badge&logo=firefoxbrowser&logoColor=081323" alt="Visit the Jenitzio website" /></a>
+</p>
+
+---
+
+<h2 align="center">TECHNOLOGIES</h2>
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&amp;logo=rust&amp;logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white" alt="Bash Script" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-<h3 align="center">Web Development & Infrastructure</h3>
+<h3 align="center">Web, Apps &amp; Graphics</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&amp;logo=Electron&amp;logoColor=white" alt="Electron.js" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite" />
-</p>
-
-<h3 align="center">Graphics & Visual Computing</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&amp;logoColor=white&amp;style=for-the-badge" alt="WebGL" />
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white" alt="Three js" />
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&amp;logo=web3.js&amp;logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&amp;logo=opengl" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&amp;style=for-the-badge" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&amp;logo=nVIDIA&amp;logoColor=white" alt="nVIDIA" />
-</p>
-
-<h3 align="center">Creative & Data Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&amp;logo=adobe&amp;logoColor=white" alt="Adobe" />
-  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&amp;logo=gimp&amp;logoColor=FFFFFF" alt="Gimp" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&amp;logo=PyTorch&amp;logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-</p>
-
-<h3 align="center">Development & Game Engines</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&amp;logo=playwright&amp;logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&amp;logo=godot-engine" alt="Godot Engine" />
-  <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&amp;logo=unrealengine&amp;logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/WebSockets-8B7CFF?style=flat-square" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
 ---
 
-<h2 align="center">GITHUB STATS</h2>
+<h2 align="center">GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=jenitzio&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=jenitzio&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jenitzio&show_icons=true&hide_border=true&bg_color=0B1020&title_color=42E8E0&text_color=DDE5FF&icon_color=8B7CFF&rank_icon=github" alt="GitHub contribution statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenitzio&layout=compact&hide_border=true&bg_color=0B1020&title_color=42E8E0&text_color=DDE5FF" alt="Most-used languages in public repositories" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jenitzio&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most-used languages" />
-</p>
-
-<h3 align="center">TOP CONTRIBUTED REPOSITORIES</h3>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jenitzio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top contributed repositories" />
+  <sub>Statistics and language estimates are generated by an external service and may not always be available or reflect every part of a project.</sub>
 </p>
 
 ---
 
+<h2 align="center">COLLABORATION &amp; CONTACT</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenitzio&style=for-the-badge&color=8B7CFF&label=PROFILE+VIEWS" alt="Profile views" />
-  <br/><br/>
-  <sub>Thanks for stopping by — explore, connect, and build something great.</sub>
+  I collaborate with <a href="https://github.com/centralorbit-org"><strong>DivineVibe (@centralorbit-org)</strong></a> on development projects and ideas.
+</p>
+
+<p align="center">
+  <a href="https://github.com/centralorbit-org"><img src="https://img.shields.io/badge/VISIT-DIVINEVIBE-8B7CFF?style=for-the-badge&logo=github&logoColor=white" alt="Visit DivineVibe on GitHub" /></a>
+  <a href="mailto:jenitzio13@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jenitzio" /></a>
+  <a href="https://jenitzio.co.uk"><img src="https://img.shields.io/badge/WEBSITE-JENITZIO.CO.UK-20CFC3?style=for-the-badge&logo=firefoxbrowser&logoColor=081323" alt="Jenitzio website" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jenitzio&style=flat-square&color=8B7CFF&label=PROFILE+VIEWS" alt="Profile views" />
+  <br /><br />
+  <sub>Code with purpose. Create with curiosity. Build what comes next.</sub>
 </p>
