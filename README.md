@@ -10,7 +10,7 @@ I enjoy taking an idea from concept to implementation, experimenting with techno
 
 ## 🤝 Collaboration
 
-I collaborate with **DivineVibe** ([**@centralorbit-org**](https://github.com/centralorbit-org)) on development projects and ideas. Visit their GitHub profile to explore their work.
+I collaborate with **DivineVibe** ([**@centralorbit-org**](https://github.com/centralorbit-org)) on development projects and ideas. Visit his GitHub profile to explore their work.
 
 ## 🌐 Find Me Online
 
