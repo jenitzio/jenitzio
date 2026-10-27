@@ -17,7 +17,7 @@
 <h2 align="center">ABOUT</h2>
 
 <p align="center">
-  I build within the <a href="https://jenitzio.co.uk"><strong>Jenitzio ecosystem</strong></a>: a growing collection of web applications, browser games, creative tools and experiments.
+  I build the <a href="https://jenitzio.co.uk"><strong>Jenitzio websites</strong></a>: a growing collection of web applications, browser games, creative tools and experiments.
   <br />
   My work spans interface design, interactive systems and desktop software, with a focus on making ambitious ideas useful, accessible and enjoyable to explore.
 </p>
