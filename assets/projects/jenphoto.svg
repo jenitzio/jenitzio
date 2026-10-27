@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">JenPhoto project artwork</title>
+  <desc id="desc">Custom vector artwork for JenPhoto, using a dark interface and a turquoise, violet and pink accent palette. This is illustrative artwork, not a screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080d1c"/><stop offset="55%" stop-color="#0c3038"/><stop offset="100%" stop-color="#081e2b"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#42E8E0"/><stop offset="55%" stop-color="#FF70C7"/><stop offset="100%" stop-color="#ff70c7"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a8b8ff" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#42E8E0" stop-opacity=".2"/><stop offset="100%" stop-color="#42E8E0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="470" rx="26" fill="url(#bg)"/>
+  <rect width="1000" height="470" rx="26" fill="url(#grid)"/>
+  <ellipse cx="880" cy="70" rx="260" ry="190" fill="url(#glow)"/>
+  <rect x="52" y="42" width="5" height="91" rx="2.5" fill="url(#line)"/>
+  <text x="75" y="77" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="800" letter-spacing=".6" fill="#f7f8ff">JenPhoto</text>
+  <text x="77" y="105" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#42E8E0">DESKTOP APP · PHOTO WORKFLOW</text>
+  <rect x="760" y="52" width="188" height="29" rx="14.5" fill="#42E8E0" fill-opacity=".09" stroke="#42E8E0" stroke-opacity=".52"/>
+  <circle cx="778" cy="66.5" r="3.5" fill="#42E8E0"/>
+  <text x="791" y="71" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.4" fill="#dbe6ff">JENITZIO PROJECT</text>
+  
+  <rect x="52" y="178" width="896" height="270" rx="18" fill="#0d1325" stroke="#293351"/>
+  <rect x="52" y="178" width="896" height="39" rx="18" fill="#151d34"/><rect x="52" y="202" width="896" height="15" fill="#151d34"/>
+  <circle cx="76" cy="198" r="4" fill="#ff70c7"/><circle cx="92" cy="198" r="4" fill="#f4c46b"/><circle cx="108" cy="198" r="4" fill="#42e8e0"/>
+  <text x="130" y="203" fill="#bac4e8" font-size="13">JENPHOTO  /  Image workspace</text>
+  <rect x="72" y="232" width="155" height="190" rx="9" fill="#121b31" stroke="#2b3654"/>
+  <text x="90" y="254" fill="#d6def5" font-size="11" font-weight="700">TOOLS</text>
+  <rect x="88" y="269" width="123" height="21" rx="5" fill="#1a253c" stroke="#2b3654"/><text x="101" y="283" font-size="10" fill="#93a2c7">Crop</text><rect x="88" y="297" width="123" height="21" rx="5" fill="#2b4764" stroke="#42e8e0"/><text x="101" y="311" font-size="10" fill="#a9fff5">Adjust</text><rect x="88" y="325" width="123" height="21" rx="5" fill="#1a253c" stroke="#2b3654"/><text x="101" y="339" font-size="10" fill="#93a2c7">Colour</text><rect x="88" y="353" width="123" height="21" rx="5" fill="#1a253c" stroke="#2b3654"/><text x="101" y="367" font-size="10" fill="#93a2c7">Detail</text><rect x="88" y="381" width="123" height="21" rx="5" fill="#1a253c" stroke="#2b3654"/><text x="101" y="395" font-size="10" fill="#93a2c7">Export</text>
+  <rect x="243" y="232" width="445" height="190" rx="9" fill="#1d2e46"/>
+  <rect x="243" y="232" width="445" height="85" rx="9" fill="#355a7d"/>
+  <path d="M243 319 L330 270 L402 304 L480 252 L553 308 L620 277 L688 309 L688 422 L243 422Z" fill="#8a77ad"/>
+  <path d="M243 343 L331 315 L404 336 L497 300 L568 341 L625 320 L688 346 L688 422 L243 422Z" fill="#349b91"/>
+  <path d="M243 373 L352 355 L420 365 L519 345 L604 366 L688 356 L688 422 L243 422Z" fill="#20384a"/>
+  <rect x="704" y="232" width="224" height="190" rx="9" fill="#121b31" stroke="#2b3654"/>
+  <text x="721" y="254" fill="#d6def5" font-size="11" font-weight="700">ADJUSTMENTS</text>
+  <text x="721" y="278" fill="#8292b6" font-size="9">Brightness</text><rect x="721" y="286" width="190" height="4" rx="2" fill="#293652"/><rect x="721" y="286" width="118" height="4" rx="2" fill="#42e8e0"/><text x="721" y="309" fill="#8292b6" font-size="9">Highlights</text><rect x="721" y="317" width="190" height="4" rx="2" fill="#293652"/><rect x="721" y="317" width="144" height="4" rx="2" fill="#8b7cff"/><text x="721" y="340" fill="#8292b6" font-size="9">Shadows</text><rect x="721" y="348" width="190" height="4" rx="2" fill="#293652"/><rect x="721" y="348" width="82" height="4" rx="2" fill="#ff70c7"/><text x="721" y="371" fill="#8292b6" font-size="9">Temperature</text><rect x="721" y="379" width="190" height="4" rx="2" fill="#293652"/><rect x="721" y="379" width="104" height="4" rx="2" fill="#f4c46b"/>
+  <text x="72" y="443" fill="#7f91b8" font-size="10">IMAGE LIBRARY  /  WORKSPACE PREVIEW</text>
+ 
+  <rect x="52" y="457" width="896" height="3" rx="1.5" fill="url(#line)" opacity=".85"/>
+</svg>
