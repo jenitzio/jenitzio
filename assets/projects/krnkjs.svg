@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">KRNK.JS project artwork</title>
+  <desc id="desc">Custom vector artwork for KRNK.JS, using a dark interface and a turquoise, violet and pink accent palette. This is illustrative artwork, not a screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080d1c"/><stop offset="55%" stop-color="#102c45"/><stop offset="100%" stop-color="#081e2b"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#42E8E0"/><stop offset="55%" stop-color="#8B7CFF"/><stop offset="100%" stop-color="#ff70c7"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a8b8ff" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#42E8E0" stop-opacity=".2"/><stop offset="100%" stop-color="#42E8E0" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="470" rx="26" fill="url(#bg)"/>
+  <rect width="1000" height="470" rx="26" fill="url(#grid)"/>
+  <ellipse cx="880" cy="70" rx="260" ry="190" fill="url(#glow)"/>
+  <rect x="52" y="42" width="5" height="91" rx="2.5" fill="url(#line)"/>
+  <text x="75" y="77" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="800" letter-spacing=".6" fill="#f7f8ff">KRNK.JS</text>
+  <text x="77" y="105" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#42E8E0">BROWSER FPS · WEB-BASED GAME</text>
+  <rect x="760" y="52" width="188" height="29" rx="14.5" fill="#42E8E0" fill-opacity=".09" stroke="#42E8E0" stroke-opacity=".52"/>
+  <circle cx="778" cy="66.5" r="3.5" fill="#42E8E0"/>
+  <text x="791" y="71" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.4" fill="#dbe6ff">JENITZIO PROJECT</text>
+  
+  <rect x="52" y="178" width="896" height="270" rx="18" fill="#0d1325" stroke="#293351"/>
+  <rect x="63" y="189" width="874" height="248" rx="12" fill="#121d31"/>
+  <rect x="63" y="189" width="874" height="80" rx="12" fill="#182c45"/>
+  <path d="M63 269 L210 330 L370 292 L500 347 L648 289 L790 330 L937 278 L937 437 L63 437Z" fill="#253c50"/>
+  <path d="M63 296 L240 365 L379 330 L499 390 L633 329 L786 378 L937 315" stroke="#42e8e0" stroke-width="1.5" fill="none" opacity=".55"/>
+  <path d="M110 189V437 M175 189V437 M240 189V437 M305 189V437 M370 189V437 M435 189V437 M500 189V437 M565 189V437 M630 189V437 M695 189V437 M760 189V437 M825 189V437 M890 189V437" stroke="#3b5870" stroke-width="1" opacity=".42"/>
+  <path d="M63 222 H937 M63 258 H937 M63 294 H937 M63 330 H937 M63 366 H937 M63 402 H937" stroke="#3b5870" stroke-width="1" opacity=".38"/>
+  <path d="M500 290v-24 M500 314v24 M476 302h-24 M500 302h24" stroke="#f4f7ff" stroke-width="2"/>
+  <circle cx="500" cy="302" r="16" stroke="#42e8e0" stroke-width="1.4" fill="none" opacity=".8"/>
+  <rect x="78" y="205" width="135" height="51" rx="7" fill="#0c1524" opacity=".9" stroke="#364d67"/>
+  <text x="91" y="222" fill="#42e8e0" font-size="10" font-weight="700">KRNK.JS</text><text x="91" y="239" fill="#e4ecff" font-size="10">MATCH LIVE</text><text x="91" y="249" fill="#8292b6" font-size="7">TEAM DEATHMATCH</text>
+  <rect x="837" y="205" width="81" height="70" rx="7" fill="#0c1524" opacity=".92" stroke="#364d67"/>
+  <path d="M849 220L864 226L880 216L905 229L899 250L880 261L854 249Z" fill="#183950" stroke="#42e8e0" stroke-width="1.2"/><circle cx="878" cy="238" r="3" fill="#ff70c7"/><circle cx="861" cy="245" r="2.5" fill="#42e8e0"/>
+  <text x="851" y="268" fill="#8292b6" font-size="7">MINIMAP</text>
+  <rect x="79" y="386" width="240" height="30" rx="7" fill="#0c1524" opacity=".9"/><text x="92" y="405" fill="#e4ecff" font-size="10">HEALTH</text><rect x="142" y="397" width="90" height="6" rx="3" fill="#273a50"/><rect x="142" y="397" width="68" height="6" rx="3" fill="#42e8e0"/><text x="249" y="405" fill="#e4ecff" font-size="10">ARMOUR 75</text>
+  <rect x="731" y="386" width="187" height="30" rx="7" fill="#0c1524" opacity=".9"/><text x="744" y="405" fill="#8292b6" font-size="9">AMMO</text><text x="880" y="405" text-anchor="end" fill="#e4ecff" font-size="13" font-weight="700">24 / 96</text>
+ 
+  <rect x="52" y="457" width="896" height="3" rx="1.5" fill="url(#line)" opacity=".85"/>
+</svg>
