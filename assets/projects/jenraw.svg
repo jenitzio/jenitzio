@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">JenRAW project artwork</title>
+  <desc id="desc">Custom vector artwork for JenRAW, using a dark interface and a turquoise, violet and pink accent palette. This is illustrative artwork, not a screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080d1c"/><stop offset="55%" stop-color="#172243"/><stop offset="100%" stop-color="#081e2b"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8B7CFF"/><stop offset="55%" stop-color="#42E8E0"/><stop offset="100%" stop-color="#ff70c7"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a8b8ff" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#8B7CFF" stop-opacity=".2"/><stop offset="100%" stop-color="#8B7CFF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="470" rx="26" fill="url(#bg)"/>
+  <rect width="1000" height="470" rx="26" fill="url(#grid)"/>
+  <ellipse cx="880" cy="70" rx="260" ry="190" fill="url(#glow)"/>
+  <rect x="52" y="42" width="5" height="91" rx="2.5" fill="url(#line)"/>
+  <text x="75" y="77" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="800" letter-spacing=".6" fill="#f7f8ff">JenRAW</text>
+  <text x="77" y="105" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#8B7CFF">PHOTOGRAPHY · RAW WORKFLOW</text>
+  <rect x="760" y="52" width="188" height="29" rx="14.5" fill="#8B7CFF" fill-opacity=".09" stroke="#8B7CFF" stroke-opacity=".52"/>
+  <circle cx="778" cy="66.5" r="3.5" fill="#8B7CFF"/>
+  <text x="791" y="71" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.4" fill="#dbe6ff">JENITZIO PROJECT</text>
+  
+  <rect x="52" y="178" width="896" height="270" rx="18" fill="#0d1325" stroke="#293351"/>
+  <rect x="52" y="178" width="896" height="39" rx="18" fill="#151b33"/><rect x="52" y="202" width="896" height="15" fill="#151b33"/>
+  <circle cx="76" cy="198" r="4" fill="#ff70c7"/><circle cx="92" cy="198" r="4" fill="#f4c46b"/><circle cx="108" cy="198" r="4" fill="#42e8e0"/>
+  <text x="130" y="203" fill="#bac4e8" font-size="13">JENRAW  /  Develop workspace</text>
+  <rect x="72" y="232" width="600" height="165" rx="9" fill="#1b2b45"/>
+  <rect x="72" y="232" width="600" height="95" rx="9" fill="#2d4c73"/>
+  <path d="M72 329 L185 275 L267 307 L362 251 L463 311 L568 270 L672 306 L672 397 L72 397Z" fill="#8272b8"/>
+  <path d="M72 353 L175 321 L265 345 L368 298 L462 348 L574 316 L672 345 L672 397 L72 397Z" fill="#3f9d9a"/>
+  <path d="M72 376 L172 355 L280 365 L382 345 L498 369 L590 350 L672 368 L672 397 L72 397Z" fill="#213747"/>
+  <rect x="688" y="232" width="240" height="165" rx="9" fill="#121b31" stroke="#2b3654"/>
+  <text x="704" y="253" fill="#d6def5" font-size="11" font-weight="700">DEVELOP</text>
+  <path d="M704 296 L716 292 L730 282 L744 288 L758 268 L772 277 L785 284 L799 294 L813 299 L827 308 L842 314 L856 320 L870 324 L884 330 L910 333" fill="none" stroke="#42e8e0" stroke-width="2"/>
+  <path d="M704 296 L716 292 L730 282 L744 288 L758 268 L772 277 L785 284 L799 294 L813 299 L827 308 L842 314 L856 320 L870 324 L884 330 L910 333 L910 345 L704 345Z" fill="#42e8e0" opacity=".12"/>
+  <text x="704" y="366" fill="#8292b6" font-size="9">EXPOSURE</text><rect x="773" y="359" width="134" height="5" rx="2.5" fill="#293652"/><rect x="773" y="359" width="87" height="5" rx="2.5" fill="#8b7cff"/>
+  <text x="704" y="385" fill="#8292b6" font-size="9">CONTRAST</text><rect x="773" y="378" width="134" height="5" rx="2.5" fill="#293652"/><rect x="773" y="378" width="106" height="5" rx="2.5" fill="#ff70c7"/>
+  <rect x="72" y="407" width="856" height="28" rx="7" fill="#151d34"/>
+  <rect x="84" y="413" width="78" height="16" rx="3" fill="#36567c"/><rect x="176" y="413" width="78" height="16" rx="3" fill="#4a7197"/><rect x="268" y="413" width="78" height="16" rx="3" fill="#607eaa"/><rect x="360" y="413" width="78" height="16" rx="3" fill="#8a81be"/><rect x="452" y="413" width="78" height="16" rx="3" fill="#488f90"/><rect x="544" y="413" width="78" height="16" rx="3" fill="#36567c"/><rect x="636" y="413" width="78" height="16" rx="3" fill="#4a7197"/><rect x="728" y="413" width="78" height="16" rx="3" fill="#607eaa"/><rect x="820" y="413" width="78" height="16" rx="3" fill="#8a81be"/>
+ 
+  <rect x="52" y="457" width="896" height="3" rx="1.5" fill="url(#line)" opacity=".85"/>
+</svg>
