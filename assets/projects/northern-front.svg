@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">The Northern Front project artwork</title>
+  <desc id="desc">Custom vector artwork for The Northern Front, using a dark interface and a turquoise, violet and pink accent palette. This is illustrative artwork, not a screenshot.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080d1c"/><stop offset="55%" stop-color="#2e1835"/><stop offset="100%" stop-color="#081e2b"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#FF70C7"/><stop offset="55%" stop-color="#42E8E0"/><stop offset="100%" stop-color="#ff70c7"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#a8b8ff" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop offset="0%" stop-color="#FF70C7" stop-opacity=".2"/><stop offset="100%" stop-color="#FF70C7" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1000" height="470" rx="26" fill="url(#bg)"/>
+  <rect width="1000" height="470" rx="26" fill="url(#grid)"/>
+  <ellipse cx="880" cy="70" rx="260" ry="190" fill="url(#glow)"/>
+  <rect x="52" y="42" width="5" height="91" rx="2.5" fill="url(#line)"/>
+  <text x="75" y="77" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="800" letter-spacing=".6" fill="#f7f8ff">The Northern Front</text>
+  <text x="77" y="105" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.1" fill="#FF70C7">IRONFRONT · BROWSER-BASED 3D GAME</text>
+  <rect x="760" y="52" width="188" height="29" rx="14.5" fill="#FF70C7" fill-opacity=".09" stroke="#FF70C7" stroke-opacity=".52"/>
+  <circle cx="778" cy="66.5" r="3.5" fill="#FF70C7"/>
+  <text x="791" y="71" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.4" fill="#dbe6ff">JENITZIO PROJECT</text>
+  
+  <rect x="52" y="178" width="896" height="270" rx="18" fill="#0d1325" stroke="#293351"/>
+  <rect x="63" y="189" width="874" height="248" rx="12" fill="#15243a"/>
+  <rect x="63" y="189" width="874" height="104" rx="12" fill="#264b70"/>
+  <path d="M63 291 L158 249 L240 275 L333 222 L418 267 L530 231 L625 271 L730 226 L820 268 L937 239 L937 340 L63 340Z" fill="#64749b"/>
+  <path d="M63 326 L180 286 L255 311 L362 271 L456 313 L565 280 L670 316 L773 278 L868 310 L937 293 L937 437 L63 437Z" fill="#34596c"/>
+  <path d="M63 365 L193 330 L295 359 L413 320 L537 365 L656 337 L780 365 L885 334 L937 349 L937 437 L63 437Z" fill="#1b3947"/>
+  <path d="M375 437 L470 325 L525 325 L621 437Z" fill="#263448"/>
+  <path d="M446 437 L485 328 L511 328 L553 437Z" fill="#43536a"/>
+  <path d="M500 300 l8 -7 8 7 -8 7Z" fill="#ff70c7"/><path d="M500 292V310 M491 301H509" stroke="#eff6ff" stroke-width="1.5"/>
+  <rect x="78" y="205" width="142" height="58" rx="7" fill="#101a2b" opacity=".84" stroke="#7485a6"/>
+  <text x="90" y="223" fill="#dbe7ff" font-size="10" font-weight="700">OPERATION</text><text x="90" y="239" fill="#ff9ed8" font-size="12" font-weight="700">COLD HORIZON</text><text x="90" y="252" fill="#91a6c9" font-size="8">SECTOR A-03</text>
+  <rect x="830" y="205" width="88" height="68" rx="7" fill="#101a2b" opacity=".88" stroke="#7485a6"/>
+  <path d="M842 222l20 4 15 -10 13 12 15 -4 M842 239l17 -6 13 10 13 -8 20 5 M844 258l18 -8 14 5 14 -6" stroke="#42e8e0" stroke-width="1.5" fill="none"/>
+  <text x="843" y="268" fill="#91a6c9" font-size="7">TACTICAL MAP</text>
+  <rect x="79" y="381" width="190" height="35" rx="7" fill="#101a2b" opacity=".88"/><text x="92" y="396" fill="#91a6c9" font-size="9">DEPLOYMENT</text><text x="92" y="409" fill="#e9efff" font-size="11" font-weight="700">MBT-90  /  READY</text>
+  <rect x="742" y="390" width="176" height="25" rx="6" fill="#101a2b" opacity=".88"/><rect x="754" y="399" width="94" height="6" rx="3" fill="#293b51"/><rect x="754" y="399" width="73" height="6" rx="3" fill="#42e8e0"/><text x="860" y="405" fill="#e9efff" font-size="9">ARMOUR</text>
+ 
+  <rect x="52" y="457" width="896" height="3" rx="1.5" fill="url(#line)" opacity=".85"/>
+</svg>
